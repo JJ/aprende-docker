@@ -21,7 +21,10 @@ Un enfoque diferente al uso de Docker para test, despliegue de servicios web y r
 4. Cómo sí crear nuestros propios contenedores
    1. Dockerfiles y cómo trabajar con ellos.
    2. Buenas prácticas en la creación de contenedores.
-   3. Registros y cómo usarlos.
+
+3. Registros y cómo usarlos.
+   1. Registros públicos.
+   2. Registros privados en la nube y cómo y cuando usarlos.
 
 4. Interludio: arquitecturas de microservicios.
    
@@ -29,13 +32,20 @@ Un enfoque diferente al uso de Docker para test, despliegue de servicios web y r
    1. Compartiendo datos.
    2. Conectándose en red.
 
+5. Interludio: creando un entorno de desarrollo y test con Docker. 
+
 5. Combinando varios contenedores:
    1. Docker compose
    1. Docker Cloud
 
-5. Interludio: creando un entorno de desarrollo y test con Docker. 
-   
+6. Interludio: aplicaciones nativas en la nube
 
 6. Despliegue distribuido de contenedores y cómo usarlo
+   1. Por qué necesitas un despliegue distribuido de contenedores.
+   2. Conceptos de configuración distribuida
    2. Docker Swarm
+   3. Apache Mesos y cuando usarlo.
+   4. CoreOS y cuando usarlo.
+   4. Kubernetes y cuando usarlo.
+
 
