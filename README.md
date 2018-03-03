@@ -15,6 +15,9 @@ Un enfoque diferente al uso de Docker para test, despliegue de servicios web y r
    3. Trabajando con distribuciones de Linux, con lenguajes, con servicios en ocntenedores y cuando hacerlo.
    4. Cómo no crear tus propios contenedores.
    5. Cómo trabajar con datos almacenados y cómo almacenarlos.
+   6. Trabajar con la línea de órdenes.
+   7. Trabajar desde interfaz gráfico.
+   8. Configuración del daemon. 
 
 3. Interludio: servicios web y porqué son importantes para Docker.
 
