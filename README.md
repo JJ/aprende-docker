@@ -12,10 +12,12 @@ Un enfoque diferente al uso de Docker para test, despliegue de servicios web y r
 2. Comenzando con un solo contenedor de Docker
    1. Qué es y qué no es. Qué ediciones hay y qué programas necesitaremos para que funcione. 
    2. Cómo instalarlo y cuando es necesario hacerlo.
-   3. Trabajando con distribuciones de Linux, con lenguajes, con servicios en contenedores y cuando hacerlo.
-   4. Creación de un contenedor (escribiendo nuestro propio Dokerfile)
-   5. Malas prácticas.
-   6. Cómo trabajar con datos almacenados y cómo almacenarlos.
+   3. Trabajando con distribuciones de Linux, con lenguajes, con servicios en ocntenedores y cuando hacerlo.
+   4. Cómo no crear tus propios contenedores.
+   5. Cómo trabajar con datos almacenados y cómo almacenarlos.
+   6. Trabajar con la línea de órdenes.
+   7. Trabajar desde interfaz gráfico.
+   8. Configuración del daemon. 
 
 3. Interludio: servicios web y porqué son importantes para Docker.
 
